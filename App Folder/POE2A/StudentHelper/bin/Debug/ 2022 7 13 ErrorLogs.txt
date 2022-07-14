@@ -1,0 +1,2 @@
+2022/07/13 06:49:45 C->System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at StudentHelper.Classes.Command.SetExtra() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 122

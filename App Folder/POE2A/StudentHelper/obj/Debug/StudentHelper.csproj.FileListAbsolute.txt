@@ -1,0 +1,7 @@
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\bin\Debug\StudentHelper.exe.config
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\bin\Debug\StudentHelper.exe
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\bin\Debug\StudentHelper.pdb
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\obj\Debug\StudentHelper.csproj.CoreCompileInputs.cache
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\obj\Debug\StudentHelper.exe
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\obj\Debug\StudentHelper.pdb
+C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\obj\Debug\StudentHelper.csproj.AssemblyReference.cache

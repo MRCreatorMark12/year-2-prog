@@ -1,0 +1,41 @@
+2022/07/14 16:36:46 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 368
+2022/07/14 16:39:19 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 368
+2022/07/14 16:41:14 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 368
+2022/07/14 16:41:35 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 368
+2022/07/14 16:44:00 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetPurchase() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 204
+2022/07/14 16:45:09 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 370
+2022/07/14 16:45:48 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetPurchase() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 202
+2022/07/14 17:24:06 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 410
+2022/07/14 17:25:28 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at StudentHelper.Classes.Command.SetPurchase() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 303
+2022/07/14 17:35:10 C->System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at StudentHelper.Classes.Command.SetBasic() in C:\Users\CaptainBelt\Documents\ReworkedProjects\year-2-prog\App Folder\POE2A\StudentHelper\Classes\Command.cs:line 410
